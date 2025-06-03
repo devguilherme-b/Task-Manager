@@ -1,0 +1,11 @@
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.deps.json
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.dll
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.pdb
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfoInputs.cache
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfo.cs
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.csproj.CoreCompileInputs.cache
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.dll
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\refint\TaskManager.Communication.dll
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.pdb
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Communication\obj\Debug\net8.0\ref\TaskManager.Communication.dll

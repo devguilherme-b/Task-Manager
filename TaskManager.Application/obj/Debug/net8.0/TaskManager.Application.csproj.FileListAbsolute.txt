@@ -1,0 +1,15 @@
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.deps.json
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.dll
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.pdb
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.dll
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.pdb
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.AssemblyReference.cache
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfoInputs.cache
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfo.cs
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskMana.898BD9DB.Up2Date
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.dll
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
+D:\A1 - Projetos\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll
