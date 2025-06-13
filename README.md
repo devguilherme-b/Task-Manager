@@ -28,7 +28,7 @@ Este é apenas o início da aplicação dos conceitos de arquitetura limpa, foca
 ## Tecnologias Utilizadas
 
 - C# (CSharp)
-- .NET 6+
+- .NET 8
 - ASP.NET Core
 - Visual Studio 2022+
 
